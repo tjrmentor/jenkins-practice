@@ -1,2 +1,2 @@
 hello, world! maybe this will trigger a build,
-because now i installed a plugin!
+because now i installed a plugin! and now i configured it
